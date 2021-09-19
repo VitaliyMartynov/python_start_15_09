@@ -1,0 +1,7 @@
+print('Hello, world')
+print('Hello, world!', 256, 6598)
+print('Hello, world', 589, 547, sep='*/')
+print('Hello, world', 158, 5489, end='!')
+print('Hello, world', 154, 897, sep='*')
+x = int(input('x='))
+print(x)
